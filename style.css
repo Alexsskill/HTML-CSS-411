@@ -1,0 +1,50 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    color: #4682b4;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.act h2 {
+    color: #4682b4;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.scene h3, .act h3 {
+    color: #4682b4;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+.character h4 {
+    color: #4682b4;
+    font-size: 1.1em;
+    margin-top: 20px;
+}
+
+.character p {
+    font-size: 1em;
+    margin: 5px 0;
+}
+
+em {
+    font-style: italic;
+}
